@@ -1,4 +1,4 @@
-# This blu3 - I work with Java and C#, and am learning C and C++. Nearly all of my projects are private.
+# This blu3 - I work with Java and C#, am learning C and C++, and am writing my own language, Aperture. Nearly all of my projects are private.
 
 # Currently working on:
  - Ravine, a 2d Java game engine framework with easy-to-use sprites and sounds (private until completion)
