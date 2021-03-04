@@ -5,8 +5,8 @@
  - Director, a Java GUI framework fully compatible and easy to implement with pre-existing JFrames (private until completion)
  - An unnamed biome mod for Terraria, serves no purpose other than to learn C# (permanently private)
  - The Aperture Programming Language - object-oriented, fast to write, and allows for total control of memory management. (private until completion, name may change)
-  - Syntax is completed
-  - Compiler is in the works - ETA 1 year
+   - Syntax is completed
+   - Compiler is in the works - ETA 1 year
 
 # Contact info:
  - Discord: blu3#0895
