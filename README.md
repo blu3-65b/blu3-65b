@@ -1,2 +1,1 @@
-If you genuinely want to contact **ME** more than anyone else right now, you can add me on steam under a name i'll recognize. I'm not interested in anarchy so don't even consider bringing it up. 
-https://steamcommunity.com/id/blu3_65b/
+I'm still active. You can hit me up on Steam at https://steamcommunity.com/id/blu3_65b/
